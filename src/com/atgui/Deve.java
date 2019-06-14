@@ -1,6 +1,5 @@
 package com.atgui;
 
-import com.sun.org.apache.xerces.internal.util.SynchronizedSymbolTable;
 
 public class Deve {
 	public static void main(String[] args) {
