@@ -1,6 +1,5 @@
 package com.atgui;
 
-import com.sun.org.apache.xerces.internal.util.SynchronizedSymbolTable;
 
 public class Deve {
 	public static void main(String[] args) {
@@ -9,5 +8,6 @@ public class Deve {
 		System.out.println("我也改了");
 		System.out.println("我修改了一些");
 		System.out.println("我是一个新增的功能");
+		System.out.println("我是个隔壁新增加的功能");
 	}
 }
