@@ -8,5 +8,6 @@ public class Deve {
 		System.out.println("我也改了");
 		System.out.println("我修改了一些");
 		System.out.println("我是一个新增的功能");
+		System.out.println("我是隔壁新增的");
 	}
 }
